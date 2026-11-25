@@ -75,3 +75,7 @@ Data da entrega: **24/11/2026**
 ## Nota de transparência
 
 Os dados do caso demonstrativo são fictícios, conforme orientação do desafio. O projeto não contém chaves, tokens, credenciais ou informações confidenciais.
+
+## Templates para o Notion
+
+A pasta [`notion/`](notion/) contém quatro arquivos CSV prontos para importação como bases iniciais no Notion, além de instruções para criar as relações entre elas.

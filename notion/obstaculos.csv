@@ -1,0 +1,4 @@
+Obstáculo,Probabilidade,Impacto,Sinal de alerta,Alternativa planejada,Status
+Rotina disponível menor que o previsto,Média,Alto,Menos de 4 horas na semana,Priorizar duas ações críticas e reduzir escopo,Monitorar
+Baixa conversão da página de captura,Média,Alto,Taxa abaixo da meta por 5 dias,Revisar oferta e formulário antes de aumentar tráfego,Monitorar
+Atraso na produção de conteúdo,Média,Médio,Primeira publicação não aprovada até o prazo,Usar formato curto e reaproveitar um estudo de caso,Monitorar
